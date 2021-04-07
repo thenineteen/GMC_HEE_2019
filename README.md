@@ -1,5 +1,5 @@
 # GMC_2020_HEE_2019
-Religious Affiliations, Applications to Specialty and Specialist Registrations
+## Religious Affiliations, Applications to Specialty and Specialist Registrations
 
 **Authors:**
 Ali Alim-Marvasti and Mohammed Jawad 
