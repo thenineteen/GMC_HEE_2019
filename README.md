@@ -1,13 +1,13 @@
 # GMC_2020_HEE_2019
 Religious Affiliations, Applications to Specialty and Specialist Registrations
 
-**Authors**
+**Authors:**
 Ali Alim-Marvasti and Mohammed Jawad 
 
-**Code, Figures and Stats**
+**Code, Figures and Stats:**
 Ali Alim-Marvasti
 
-**Stats Checks and Manuscript Figure**
+**Stats Checks and Manuscript Figure:**
 Chibueze Ogbonnaya
 
 **Data**
